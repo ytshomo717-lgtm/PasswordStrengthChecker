@@ -1,0 +1,48 @@
+[2025-09-22 00:04:11] [Login] User: admin - Successful login
+[2025-09-22 00:04:29] [Password Check] User: admin - Medium strength password tested: Admin@123
+[2025-09-22 00:04:43] [Dictionary Check] User: admin - Password passed dictionary check: Admin@123
+[2025-09-22 00:07:04] [Password Check] User: admin - Weak password tested: 12345
+[2025-09-22 00:07:10] [Dictionary Check] User: admin - Password passed dictionary check: 12345
+[2025-09-22 00:07:12] [Dictionary Check] User: admin - Password passed dictionary check: Admin@123
+[2025-09-22 00:07:48] [Dictionary Check] User: admin - Password passed dictionary check: 12345
+[2025-09-22 00:07:50] [Hashcat] User: admin - Hashcat simulation run
+[2025-09-22 00:07:50] [Hashcat] User: admin - Hashcat simulation run
+[2025-09-22 00:07:55] [Password Check] User: admin - Weak password tested: yang
+[2025-09-22 00:08:04] [Hashcat] User: admin - Hashcat simulation run
+[2025-09-22 00:08:05] [Dictionary Check] User: admin - Password passed dictionary check: yang
+[2025-09-22 00:08:10] [Password Check] User: admin - Weak password tested: 111
+[2025-09-22 00:21:05] [Failed Login] User: admin - Invalid 2FA
+[2025-09-22 00:21:22] [Login] User: admin - Successful login
+[2025-09-22 00:21:30] [Password Check] User: admin - Weak password tested: 111
+[2025-09-22 00:22:18] [Password Check] User: admin - Weak password tested: 12345
+[2025-09-22 00:22:22] [Dictionary Check] User: admin - Weak dictionary password used: 12345
+[2025-09-22 00:24:02] [Password Check] User: admin - Strong password tested: VerySecure123$
+[2025-09-22 00:24:11] [Dictionary Check] User: admin - Password passed dictionary check: VerySecure123$
+[2025-09-22 00:24:13] [Dictionary Check] User: admin - Weak dictionary password used: 111
+[2025-09-22 00:28:43] [Password Check] User: admin - Strong password tested: VerySecure123$
+[2025-09-22 00:28:48] [Dictionary Check] User: admin - Password passed dictionary check: VerySecure123$
+[2025-09-22 00:28:53] [Dictionary Check] User: admin - Password passed dictionary check: VerySecure123$
+[2025-09-22 00:31:02] [Login] User: admin - Successful login
+[2025-09-22 00:31:14] [Password Check] User: admin - Weak password tested: 12345
+[2025-09-22 00:31:26] [Dictionary Check] User: admin - Weak dictionary password used: 12345
+[2025-09-22 00:31:48] [Password Check] User: admin - Weak password tested: 123
+[2025-09-22 00:31:56] [Dictionary Check] User: admin - Password passed dictionary check: 123
+[2025-09-22 00:32:07] [Password Check] User: admin - Medium strength password tested: Tumbur123
+[2025-09-22 00:33:14] [Password Check] User: admin - Strong password tested: Securecloud#$
+[2025-09-22 00:33:20] [Dictionary Check] User: admin - Password passed dictionary check: Securecloud#$
+[2025-09-22 00:33:36] [Dictionary Check] User: admin - Password passed dictionary check: Tumbur123
+[2025-09-22 00:33:46] [Password Check] User: admin - Strong password tested: securepassword@
+[2025-09-22 00:34:23] [Password Check] User: admin - Strong password tested: cretaker12345$
+[2025-09-22 00:34:27] [Dictionary Check] User: admin - Password passed dictionary check: cretaker12345$
+[2025-09-22 00:34:39] [Dictionary Check] User: admin - Password passed dictionary check: securepassword@
+[2025-09-22 00:34:46] [Password Check] User: admin - Strong password tested: Caretaker12#
+[2025-09-22 00:43:58] [Login] User: admin - Successful login
+[2025-09-22 00:44:12] [Password Check] User: admin - Very Strong password tested: securepassword1234$
+[2025-09-22 00:45:08] [Password Check] User: admin - Medium strength password tested: tashi123$
+[2025-09-22 00:45:13] [Dictionary Check] User: admin - Password passed dictionary check: tashi123$
+[2025-09-22 00:45:20] [Hashcat] User: admin - Hashcat simulation run for [securepassword1234$] -  Very strong password  cracked in years (or practically infeasible).
+[2025-09-22 00:45:37] [Hashcat] User: admin - Hashcat simulation run for [tashi123$] -  Medium password  cracked in minutes to hours.
+[2025-09-22 00:45:38] [Dictionary Check] User: admin - Password passed dictionary check: securepassword1234$
+[2025-09-22 00:45:47] [Password Check] User: admin - Strong password tested: Tumbur12345$
+[2025-09-22 00:45:59] [Hashcat] User: admin - Hashcat simulation run for [Tumbur12345$] -  Strong password  cracked in days to months.
+[2025-09-22 00:46:00] [Dictionary Check] User: admin - Password passed dictionary check: Tumbur12345$
